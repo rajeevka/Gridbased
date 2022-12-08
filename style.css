@@ -1,0 +1,25 @@
+.parent1 ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    font-weight: 700;
+    
+}
+.li{
+    background-color: black;
+    border-radius: 4px;
+    padding: 0.5rem;
+    color: white;
+    margin: 50px;
+   
+}
+.child img{
+    border: 3px solid black;
+    width: 300px;
+}
+.parent2{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
